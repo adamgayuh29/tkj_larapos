@@ -19,4 +19,3 @@
 	</tr>
 	@endforeach
 	</table>
-	@endsection
